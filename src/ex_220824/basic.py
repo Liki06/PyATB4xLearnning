@@ -1,0 +1,6 @@
+print(max(1,2,4,5))
+print(pow(4,2))
+a=(1,2,3)
+x=sum(a)
+print(x)
+print(type(x))

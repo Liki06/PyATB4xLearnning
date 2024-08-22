@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5333114-1ec9-46e7-91f8-7f28ffaab46a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex_080824/SecondProgram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_080824/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_220824/basic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_080824/FirstProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_080824/FirstProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_080824/SecondProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_080824/SecondProgram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Liki06"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Liki06&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Liki06/PyATB4xLearnning.git",
-    "accountId": "808e5bbb-06e7-4dff-b09f-123708d92e37"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Liki06/PyATB4xLearnning.git&quot;,
+    &quot;accountId&quot;: &quot;808e5bbb-06e7-4dff-b09f-123708d92e37&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kQijGovcxlT302hu7vPwxXbGto" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,8 +52,11 @@
   "keyToString": {
     "Python.FirstProgram.executor": "Run",
     "Python.SecondProgram.executor": "Run",
+    "Python.basic.executor": "Run",
+    "Python.loops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
